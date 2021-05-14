@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169591678050",
+    "project_id": "fakestergram-643f6",
+    "storage_bucket": "fakestergram-643f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169591678050:android:fea6411c716c6b29499d3b",
+        "android_client_info": {
+          "package_name": "com.fakestergrampackage.fakestergram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169591678050-544nur7nql8mblrm43e4qpvb8kgamlec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCryzhNLBPQbPyP4Hbbb4MzJJPY5POghk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169591678050-544nur7nql8mblrm43e4qpvb8kgamlec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
